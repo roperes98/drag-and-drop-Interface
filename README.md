@@ -16,7 +16,7 @@
     <img src="public/main.png"/>
 </h1>
 
-## ○ Indice
+## 📚 Indice
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
@@ -64,4 +64,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 ⠀⠀⠀⠀⠀⠀⠀⠀<br>
-Desenvolvido por Rodrigo Peres. 👾
+Desenvolvido por Rodrigo Peres! 👾
