@@ -25,22 +25,22 @@ Rocketfy is a drag and drop interface project built using ReactJS, Styled Compon
 - Drag and drop functionality for reordering items within or between lists.
 - Persistence of changes using Immer to handle immutability.
 - Styled Components for styling and theming.
-⠀⠀⠀⠀⠀⠀⠀⠀<br>
+⠀⠀⠀⠀⠀⠀⠀⠀<br><br>
 ## 🗂️ Downloading the repository
 
 ```bash
 
     # Clone the repository
-    $ git clone https://github.com/roperes98/drag-and-drop-Interface.git
+    $ `git` clone https://github.com/roperes98/drag-and-drop-Interface.git
 
     # Go to the repository
     $ cd drag-and-drop-Interface
 
     # Install dependencies
-    $ npm install or yarn install
+    $ `npm` install or `yarn` install
 
     # Start the development server
-    $ npm start or yarn start
+    $ `npm` start or `yarn` start
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀<br>
