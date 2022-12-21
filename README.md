@@ -14,54 +14,46 @@
 ![](https://img.shields.io/github/languages/count/roperes98/drag-and-drop-Interface.svg?color=lightgrey)
 ![](https://img.shields.io/github/languages/top/roperes98/drag-and-drop-Interface.svg?color=yellow)
 ![](https://img.shields.io/github/repo-size/roperes98/drag-and-drop-Interface.svg)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)⠀⠀⠀⠀
 
-## 📚 Indice
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
+## 📋 About
 
-⠀⠀⠀⠀⠀⠀⠀⠀
+Rocketfy is a drag and drop interface project built using ReactJS, Styled Components, React DnD, and ImmerJs.
 
----
+## ⚒️ Features
 
-⠀⠀⠀⠀⠀⠀⠀⠀
+- Drag and drop functionality for reordering items within or between lists.
+- Persistence of changes using Immer to handle immutability.
+- Styled Components for styling and theming.
 
-## 🔖 Sobre
-
-O projeto Rocketfy é um site onde todos os cards com dados vêm de uma lista, sendo possível movê-los de lugar ao arrastar e soltar.
-
-⠀⠀⠀⠀⠀⠀⠀⠀
-## 🚀 Tecnologias utilizadas
-
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-- [ReactJS](https://reactjs.org)
-- [Styled components](https://styled-components.com)
-- [React DnD](https://react-dnd.github.io/react-dnd/about)
-- [Immer](https://immerjs.github.io/immer/docs/introduction)
-
-⠀⠀⠀⠀⠀⠀⠀⠀
-
-## 🗂 Como baixar o projeto
+## 🗂️ Downloading the repository
 
 ```bash
 
-    # Clonar o repositório
+    # Clone the repository
     $ git clone https://github.com/roperes98/drag-and-drop-Interface.git
 
-    # Entrar no diretório
+    # Go to the repository
     $ cd drag-and-drop-Interface
 
-    # instalar as dependências
-    $ yarn install
+    # Install dependencies
+    $ npm install or yarn install
 
-    # Iniciar o projeto
-    $ yarn start
+    # Start the development server
+    $ npm start or yarn start
 
 ```
+⠀⠀⠀⠀⠀⠀⠀⠀
+## 🚀 Technologies
+
+This project was built using React and a few helpful libraries:
+
+- [ReactJS](https://reactjs.org) - A JavaScript library for building user interfaces.
+- [Styled components](https://styled-components.com) - A library for styling React components.
+- [React DnD](https://react-dnd.github.io/react-dnd/about) - A set of React higher-order components to help you build complex drag and drop interfaces.
+- [Immer](https://immerjs.github.io/immer/docs/introduction) - A tiny package that allows you to work with immutable state in a more convenient way.
 ⠀⠀⠀⠀⠀⠀⠀⠀
 
 ---
 ⠀⠀⠀⠀⠀⠀⠀⠀<br>
-Desenvolvido por Rodrigo Peres! 👾
+Developed by Rodrigo Peres! 👾
