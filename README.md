@@ -52,7 +52,10 @@ This project was built using React and a few helpful libraries:
 - [Styled components](https://styled-components.com) - A library for styling React components.
 - [React DnD](https://react-dnd.github.io/react-dnd/about) - A set of React higher-order components to help you build complex drag and drop interfaces.
 - [Immer](https://immerjs.github.io/immer/docs/introduction) - A tiny package that allows you to work with immutable state in a more convenient way.
-⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀<br><br>
+## 🌏 Licence
+
+This project is licensed under the MIT License.
 
 ---
 ⠀⠀⠀⠀⠀⠀⠀⠀<br>
