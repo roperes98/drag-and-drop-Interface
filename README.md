@@ -15,17 +15,17 @@
 ![](https://img.shields.io/github/languages/top/roperes98/drag-and-drop-Interface.svg?color=yellow)
 ![](https://img.shields.io/github/repo-size/roperes98/drag-and-drop-Interface.svg)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)⠀⠀⠀⠀
-
+⠀⠀⠀⠀⠀⠀⠀⠀
 ## 📋 About
 
 Rocketfy is a drag and drop interface project built using ReactJS, Styled Components, React DnD, and ImmerJs.
-
+⠀⠀⠀⠀⠀⠀⠀⠀
 ## ⚒️ Features
 
 - Drag and drop functionality for reordering items within or between lists.
 - Persistence of changes using Immer to handle immutability.
 - Styled Components for styling and theming.
-
+⠀⠀⠀⠀⠀⠀⠀⠀
 ## 🗂️ Downloading the repository
 
 ```bash
