@@ -4,6 +4,10 @@
     ⠀⠀⠀⠀⠀⠀⠀⠀
 </h1>
 
+<h1>
+    <img src="public/main.png"/>
+</h1>
+
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/roperes98/drag-and-drop-Interface/blob/master/LICENSE)
 ![](https://img.shields.io/github/package-json/v/roperes98/drag-and-drop-Interface.svg)
 ![](https://img.shields.io/github/last-commit/roperes98/drag-and-drop-Interface.svg?color=red)
@@ -11,10 +15,6 @@
 ![](https://img.shields.io/github/languages/top/roperes98/drag-and-drop-Interface.svg?color=yellow)
 ![](https://img.shields.io/github/repo-size/roperes98/drag-and-drop-Interface.svg)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-
-<h1>
-    <img src="public/main.png"/>
-</h1>
 
 ## 📚 Indice
 - [Sobre](#-sobre)
