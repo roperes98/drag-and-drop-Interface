@@ -55,8 +55,8 @@ This project was built using React and a few helpful libraries:
 ⠀⠀⠀⠀⠀⠀<br><br>
 ## 🌏 Licence
 
-This project is licensed under the MIT License.
-<br>
+This project is licensed under the MIT License.<br>
+
 ---
 ⠀⠀⠀⠀⠀⠀⠀⠀<br>
 Developed by Rodrigo Peres! 👾
