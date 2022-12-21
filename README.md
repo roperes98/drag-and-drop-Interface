@@ -1,6 +1,6 @@
 <h1>
     <img src="public/rocketfy.png" width="190px"/> <br>
-    Drag n' drop interface <br>
+    Drag n' drop interface
     ⠀⠀⠀⠀⠀⠀⠀⠀
 </h1>
 
@@ -19,7 +19,7 @@
 ## 📋 About
 
 Rocketfy is a drag and drop interface project built using ReactJS, Styled Components, React DnD, and ImmerJs.
-⠀⠀⠀⠀⠀⠀⠀⠀<br>
+⠀⠀⠀⠀⠀⠀⠀⠀<br><br>
 ## ⚒️ Features
 
 - Drag and drop functionality for reordering items within or between lists.
@@ -31,16 +31,16 @@ Rocketfy is a drag and drop interface project built using ReactJS, Styled Compon
 ```bash
 
     # Clone the repository
-    $ `git` clone https://github.com/roperes98/drag-and-drop-Interface.git
+    $ `git clone https://github.com/roperes98/drag-and-drop-Interface.git`
 
     # Go to the repository
-    $ cd drag-and-drop-Interface
+    $ `cd drag-and-drop-Interface`
 
     # Install dependencies
-    $ `npm` install or `yarn` install
+    $ `npm install` or `yarn install`
 
     # Start the development server
-    $ `npm` start or `yarn` start
+    $ `npm start` or `yarn start`
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀<br>
